@@ -1,0 +1,8 @@
+big_points,x_coordinates,y_coordinates,n_intervals,max_amplitudes,finish_field
+1,0,357,15,120,
+2,181,409,15,120,
+3,340,320,15,200,
+4,553,320,15,150,
+5,767,454,1,0,finish_field_left
+6,831,454,15,120,finish_field_right
+7,1000,403,,,
